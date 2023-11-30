@@ -1,6 +1,6 @@
-﻿/.git
-/.vs
-/Temp
-/Library
-/obj
-/Logs
+.git/
+.vs/
+Temp/
+Library/
+obj/
+Logs/

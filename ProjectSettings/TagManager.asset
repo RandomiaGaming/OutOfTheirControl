@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Gard
+  - Gard Veiw Area
   layers:
   - Default
   - TransparentFX
@@ -13,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Raycast
   - 
   - 
   - 
@@ -40,4 +42,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 4147241071
+    locked: 0
+  - name: Gard Veiw Area
+    uniqueID: 863630901
+    locked: 0
+  - name: Gard
+    uniqueID: 2328967859
+    locked: 0
+  - name: Player
+    uniqueID: 1045884465
     locked: 0
